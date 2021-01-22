@@ -16,3 +16,9 @@ By the time the talk and the refactoring end, you will:
 
 We will also have fun together, laughing at C# memes, surprising code lines, and weird programming challenges that C# 9.0 made possible, like writing non-trivial programs without using any curly braces :-) ;-)
 
+## Talk History
+
+|                           Version                            | Date                          | Event                                                        |       City        | Country | Video |
+| :----------------------------------------------------------: | ----------------------------- | ------------------------------------------------------------ | :---------------: | ------- | ----- |
+| v0.1.0 | December&nbsp;9th,&nbsp;2020 | [Microsoft Developer User Group Graz [Meetup]](https://www.meetup.com/MicrosoftDeveloperGraz/events/274256814/) | &lt;Online&gt; | -   | [YouTube](https://www.youtube.com/watch?v=C14pDSfO55s) |
+
