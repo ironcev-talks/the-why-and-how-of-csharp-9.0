@@ -29,6 +29,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelStatements.NewHello
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopLevelStatements.AllInOneExample", "TopLevelStatements\TopLevelStatements.AllInOneExample\TopLevelStatements.AllInOneExample.csproj", "{D0D6B130-5B4C-4A87-9A14-104E3157CCF3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TargetTypedNewExpressions", "TargetTypedNewExpressions", "{B5375167-C261-42FB-8E60-91ED49BF9FC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TargetTypedNewExpressions.AllInOneExample", "TargetTypedNewExpressions\TargetTypedNewExpressions.AllInOneExample\TargetTypedNewExpressions.AllInOneExample.csproj", "{D909E34F-D00E-4A5D-BC80-B8FBFAD79A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,10 @@ Global
 		{D0D6B130-5B4C-4A87-9A14-104E3157CCF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0D6B130-5B4C-4A87-9A14-104E3157CCF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0D6B130-5B4C-4A87-9A14-104E3157CCF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D909E34F-D00E-4A5D-BC80-B8FBFAD79A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D909E34F-D00E-4A5D-BC80-B8FBFAD79A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D909E34F-D00E-4A5D-BC80-B8FBFAD79A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D909E34F-D00E-4A5D-BC80-B8FBFAD79A17}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +98,7 @@ Global
 		{1431BE5B-FE26-40B9-813A-2200D63F8D01} = {4C21E675-A422-4F69-AD85-4C4F42FB7FA2}
 		{26187725-8416-4751-8734-BDBC3B0DE00F} = {4C21E675-A422-4F69-AD85-4C4F42FB7FA2}
 		{D0D6B130-5B4C-4A87-9A14-104E3157CCF3} = {4C21E675-A422-4F69-AD85-4C4F42FB7FA2}
+		{D909E34F-D00E-4A5D-BC80-B8FBFAD79A17} = {B5375167-C261-42FB-8E60-91ED49BF9FC7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4013E507-C6DF-4F41-BCF0-6B6F2A12A0A3}
