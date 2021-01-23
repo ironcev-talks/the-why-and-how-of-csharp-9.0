@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Records.PositionalRecords",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Records.EntityFrameworkCore31", "Records\Records.EntityFrameworkCore31\Records.EntityFrameworkCore31.csproj", "{D8078744-7514-462E-A14A-FA7329892000}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Records.WithExpression", "Records\Records.WithExpression\Records.WithExpression.csproj", "{D8207B43-8AD6-4A09-BF23-DBAF4A0E6F5C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,10 @@ Global
 		{D8078744-7514-462E-A14A-FA7329892000}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8078744-7514-462E-A14A-FA7329892000}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8078744-7514-462E-A14A-FA7329892000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8207B43-8AD6-4A09-BF23-DBAF4A0E6F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8207B43-8AD6-4A09-BF23-DBAF4A0E6F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8207B43-8AD6-4A09-BF23-DBAF4A0E6F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8207B43-8AD6-4A09-BF23-DBAF4A0E6F5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +66,7 @@ Global
 		{92BB5B16-C206-40D0-A17C-2E89905C3755} = {92246A50-ED36-431A-813E-22C64D6BE700}
 		{B0CA0AB0-1F86-4907-800B-92DC56214149} = {92246A50-ED36-431A-813E-22C64D6BE700}
 		{D8078744-7514-462E-A14A-FA7329892000} = {92246A50-ED36-431A-813E-22C64D6BE700}
+		{D8207B43-8AD6-4A09-BF23-DBAF4A0E6F5C} = {92246A50-ED36-431A-813E-22C64D6BE700}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4013E507-C6DF-4F41-BCF0-6B6F2A12A0A3}

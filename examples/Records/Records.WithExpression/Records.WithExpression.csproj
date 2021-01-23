@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\Records.PositionalRecords\Artwork.cs" Link="Artwork.cs" />
+    <Compile Include="..\Records.PositionalRecords\MonaLisa.cs" Link="MonaLisa.cs" />
+    <Compile Include="..\Records.PositionalRecords\Painting.cs" Link="Painting.cs" />
+    <Compile Include="..\Records.PositionalRecords\Portrait.cs" Link="Portrait.cs" />
+    <Compile Include="..\..\Program.Common.cs" Link="Program.Common.cs" />
+  </ItemGroup>
+  
+</Project>
