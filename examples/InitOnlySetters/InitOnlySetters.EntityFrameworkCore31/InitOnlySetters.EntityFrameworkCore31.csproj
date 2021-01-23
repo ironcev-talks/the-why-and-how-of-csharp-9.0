@@ -8,7 +8,8 @@
 
   <ItemGroup>
     <Compile Include="..\..\BaseDemoDbContext.cs" Link="BaseDemoDbContext.cs" />
-    <Compile Include="..\..\Program.Partial.cs" Link="Program.Partial.cs" />
+    <Compile Include="..\..\Program.Common.cs" Link="Program.Common.cs" />
+    <Compile Include="..\..\Program.Database.cs" Link="Program.Database.cs" />
     <Compile Include="..\..\IsExternalInit.cs" Link="IsExternalInit.cs" />
   </ItemGroup>
 

@@ -1,6 +1,6 @@
-﻿namespace InitOnlySetters.MostCommonUsage
+﻿namespace Records.ValueSemantics
 {
-    class MonaLisaImmutableWithInitOnlySetters
+    record MonaLisa
     {
         public string Nose { get; init; }
         public string Lips { get; init; }
@@ -9,11 +9,11 @@
         public bool Smiles { get; init; }
     }
 
-    class MonaLisaImmutableWithInitOnlySettersSpecifier
+    class MonaLisaSpecifier
     {
-        public MonaLisaImmutableWithInitOnlySetters Specify()
+        public MonaLisa Specify()
         {
-            var monaLisa = new MonaLisaImmutableWithInitOnlySetters
+            var monaLisa = new MonaLisa
             {
                 Nose = "beautiful",
                 Lips = "charming",
@@ -21,8 +21,6 @@
                 WearsGlasses = false,
                 Smiles = true
             };
-
-            // monaLisa.Nose = "broken";
 
             return monaLisa;
         }
