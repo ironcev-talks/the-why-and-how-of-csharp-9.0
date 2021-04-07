@@ -20,7 +20,7 @@ We will also have fun together, laughing at C# memes, surprising code lines, and
 
 |                           Version                            | Date                          | Event                                                        |       City        | Country | Video |
 | :----------------------------------------------------------: | ----------------------------- | ------------------------------------------------------------ | :---------------: | ------- | ----- |
-| [v0.1.0](https://github.com/ironcev-talks/the-why-and-how-of-csharp-9.0/releases/tag/2020-12-09-Online-Microsoft-Developer-User-Groups-Graz-and-Rijeka-Meetup) | December&nbsp;9th,&nbsp;2020 | [Microsoft Developer User Group Graz and Rijeka [Meetup]](https://www.meetup.com/MicrosoftDeveloperGraz/events/274256814/) | &lt;Online&gt; | -   | [YouTube](https://www.youtube.com/watch?v=C14pDSfO55s) |
+| [v0.1.0](https://github.com/ironcev-talks/the-why-and-how-of-csharp-9.0/releases/tag/2020-12-09-Online-Microsoft-Developer-User-Groups-Graz-and-Rijeka-Meetup) | December&nbsp;9th,&nbsp;2020 | [Microsoft Developer User Group Graz and Rijeka [Meetup]](https://www.meetup.com/MicrosoftDeveloperGraz/events/274256814/) (with [Marko Lohert](https://github.com/marko-lohert))| &lt;Online&gt; | -   | [YouTube](https://www.youtube.com/watch?v=C14pDSfO55s) |
 
 ## Examples
 
